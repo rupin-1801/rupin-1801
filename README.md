@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rupin-1801/](rupin-1801)
+- 👨‍💻 All of my projects are available at [rupin-1801](https://github.com/rupin-1801/)
 
 - 💬 Ask me about **python, javascript, java, cpp, linux, react, css, figma, arduino ide**
 
