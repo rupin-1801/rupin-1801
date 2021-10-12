@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [rupin-1801](https://github.com/rupin-1801?tab=repositories)
 
-- 💬 Ask me about **python, javascript, java, cpp, linux, react, css, figma, arduino ide**
+- 💬 Ask me about **javascript, react, css, java, python, cpp, redux, linux, figma, arduino ide**
 
 - 📫 How to reach me **rupinbhugra1411@gmail.com**
 
