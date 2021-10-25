@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupin-1801" alt="rupin-1801" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website using MERN Stack**
+- 🔭 I’m currently working on **FroshHub using HTML, CSS, JS, and firebase, PracBook and E-commerce website using MERN Stack**
 
 - 🌱 I’m currently learning **MERN Stack**
 
