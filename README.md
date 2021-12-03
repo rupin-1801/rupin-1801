@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PracBook, practical exam portal using MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and machine learning**
 
 - 👨‍💻 All of my projects are available at [rupin-1801](https://github.com/rupin-1801?tab=repositories)
 
