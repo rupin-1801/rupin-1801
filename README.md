@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rupin Bhugra</h1>
+<h1 align="center">Hi 👋, I'm Rupin Bhugra, loves web development.</h1>
 <h3 align="center">An upcoming full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupin-1801&label=Profile%20views&color=0e75b6&style=flat" alt="rupin-1801" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupin-1801" alt="rupin-1801" /></a> </p>
 
-- 🔭 I’m currently working on **PracBook, practical exam portal using MERN Stack**
+- 🔭 I’m currently working on **Resume maker, platform to easily make/update your resume**
 
-- 🌱 I’m currently learning **MERN Stack and machine learning**
+- 🌱 I’m currently learning **MERN Stack**, Intrested in **machine learning** as well..
 
 - 👨‍💻 All of my projects are available at [rupin-1801](https://github.com/rupin-1801?tab=repositories)
 
-- 💬 Ask me about **javascript, react, css, java, python, cpp, redux, linux, figma, arduino ide**
+- 💬 Ask me about **javascript, reactJS, nodeJS, mongoDB, python, css, html, redux, linux, java, cpp, figma, arduino ide**
 
 - 📫 How to reach me **rupinbhugra1411@gmail.com**
 
